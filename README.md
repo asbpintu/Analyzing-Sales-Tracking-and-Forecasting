@@ -1,0 +1,2 @@
+# Analyzing-Sales-Tracking-and-Forecasting-for-a-Superstore-A-Power-BI-Case-Study
+This project utilizes Power BI to analyze and forecast sales data from a superstore over a two-year period. We extract, transform, and visualize the data to gain insights into performance and predict future sales. With interactive reports and dashboards, stakeholders can quickly understand trends, make data-driven decisions, improved profitability.
